@@ -1,0 +1,13 @@
+{
+  "name": "00_tema_introducion",
+  "version": "1.0.0",
+  "description": "Ejemplo basico uso javascript",
+  "license": "ISC",
+  "author": "Nayara",
+  "type": "module",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lanzar": "node ejercicio1.js"
+  }
+}
